@@ -31,7 +31,7 @@
 </footer>
 </body>
 </html>
-<small>I like reading a lot!</small>
+
 <style>
    body{color:#4b0082;
                background-color:#ffb6c1;}
